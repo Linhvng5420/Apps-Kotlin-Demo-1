@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">Apps Kotlin Demo 1</string>
     <string name="coder_name">Linh Van Nguyen</string>
+    <string name="title">Happy Birtday \n \"Triss\"</string>
 </resources>
